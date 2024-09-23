@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.849896d5.css",
+    "main.js": "/static/js/main.469fcc46.js",
+    "static/js/453.f8571720.chunk.js": "/static/js/453.f8571720.chunk.js",
+    "static/media/Death2.png": "/static/media/Death2.f7dc0a410482db9ca3f2.png",
+    "static/media/Media.png": "/static/media/Media.bfe65c4432070a12c16f.png",
+    "static/media/logo.png": "/static/media/logo.4adf4cacf6ffeee13c2c.png",
+    "index.html": "/index.html",
+    "main.849896d5.css.map": "/static/css/main.849896d5.css.map",
+    "main.469fcc46.js.map": "/static/js/main.469fcc46.js.map",
+    "453.f8571720.chunk.js.map": "/static/js/453.f8571720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849896d5.css",
+    "static/js/main.469fcc46.js"
+  ]
+}
